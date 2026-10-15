@@ -1,4 +1,3 @@
-# Team member names: Diego Chuquillanqui, Diane Ngo, Artur Kis
 # Purpose: Read the commercial rain sensor and compare dry and wet ADC values.
 
 from machine import Pin, ADC
