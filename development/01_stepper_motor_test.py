@@ -1,4 +1,3 @@
-# Team member names: Diego Chuquillanqui, Diane Ngo, Artur Kis
 # Purpose: Test the 28BYJ-48 stepper motor in both directions before integration.
 
 from machine import Pin
