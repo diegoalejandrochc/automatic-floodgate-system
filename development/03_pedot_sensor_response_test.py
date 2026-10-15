@@ -1,4 +1,3 @@
-# Team member names: Diego Chuquillanqui, Diane Ngo, Artur Kis
 # Purpose: Measure the homemade PEDOT:PSS sensor relative to a dry baseline.
 
 from machine import Pin, ADC
