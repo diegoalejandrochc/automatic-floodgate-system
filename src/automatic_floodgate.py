@@ -1,14 +1,3 @@
-# Team members: Diego Chuquillanqui, Diane Ngo, Artur Kis
-# Purpose: Control an automatic floodgate system using a commercial rain
-# sensor and a custom PEDOT:PSS humidity sensor. Either sensor can close
-# the gate. LEDs report system status and a pushbutton reopens the gate
-# after direct water is no longer detected.
-# Started: 09/27/2026
-# Last update: 10/01/2026
-# AI use: ChatGPT assisted with code integration, troubleshooting, and
-# organization. Physical construction, wiring, testing, measurements, and
-# design decisions were completed and evaluated by the project team.
-
 from machine import ADC, Pin
 from time import sleep, sleep_us, ticks_diff, ticks_ms
 
